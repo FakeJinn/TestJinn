@@ -1,0 +1,4284 @@
+{
+  "pokemon": [{
+    "id": 1,
+    "num": "001",
+    "name": "#001 Bulbasaur",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_001_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_001_00_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "height": "0.71 m",
+    "weight": "6.9 kg",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "002",
+      "name": "Ivysaur"
+    }, {
+      "num": "003",
+      "name": "Venusaur"
+    }]
+  }, {
+    "id": 2,
+    "num": "002",
+    "name": "#002 Ivysaur",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_002_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_002_00_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "height": "0.99 m",
+    "weight": "13.0 kg",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.042,
+    "avg_spawns": 4.2,
+    "spawn_time": "07:00",
+    "multipliers": [
+      1.2,
+      1.6
+    ],
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "001",
+      "name": "Bulbasaur"
+    }],
+    "next_evolution": [{
+      "num": "003",
+      "name": "Venusaur"
+    }]
+  }, {
+    "id": 3,
+    "num": "003",
+    "name": "#003 Venusaur",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_003_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_003_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_003_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_003_01_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+      "Favorito"
+    ],
+    "height": "2.01 m",
+    "weight": "100.0 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.017,
+    "avg_spawns": 1.7,
+    "spawn_time": "11:30",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "001",
+      "name": "Bulbasaur"
+    }, {
+      "num": "002",
+      "name": "Ivysaur"
+    }]
+  }, {
+    "id": 4,
+    "num": "004",
+    "name": "#004 Charmander",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_004_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_004_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "0.61 m",
+    "weight": "8.5 kg",
+    "candy": "Charmander Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.253,
+    "avg_spawns": 25.3,
+    "spawn_time": "08:45",
+    "multipliers": [1.65],
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "005",
+      "name": "Charmeleon"
+    }, {
+      "num": "006",
+      "name": "Charizard"
+    }]
+  }, {
+    "id": 5,
+    "num": "005",
+    "name": "#005 Charmeleon",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_005_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_005_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "1.09 m",
+    "weight": "19.0 kg",
+    "candy": "Charmander Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "19:00",
+    "multipliers": [1.79],
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "004",
+      "name": "Charmander"
+    }],
+    "next_evolution": [{
+      "num": "006",
+      "name": "Charizard"
+    }]
+  }, {
+    "id": 6,
+    "num": "006",
+    "name": "#006 Charizard",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_006_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_006_00_shiny.png",
+    "type": [
+      "Fuego",
+      "Volador"
+      "Favorito"
+    ],
+    "height": "1.70 m",
+    "weight": "90.5 kg",
+    "candy": "Charmander Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0031,
+    "avg_spawns": 0.31,
+    "spawn_time": "13:34",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Eléctrico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "004",
+      "name": "Charmander"
+    }, {
+      "num": "005",
+      "name": "Charmeleon"
+    }]
+  }, {
+    "id": 7,
+    "num": "007",
+    "name": "#007 Squirtle",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_007_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_007_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.51 m",
+    "weight": "9.0 kg",
+    "candy": "Squirtle Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.58,
+    "avg_spawns": 58,
+    "spawn_time": "04:25",
+    "multipliers": [2.1],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "008",
+      "name": "Wartortle"
+    }, {
+      "num": "009",
+      "name": "Blastoise"
+    }]
+  }, {
+    "id": 8,
+    "num": "008",
+    "name": "#008 Wartortle",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_008_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_008_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.99 m",
+    "weight": "22.5 kg",
+    "candy": "Squirtle Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "prev_evolution": [{
+      "num": "007",
+      "name": "Squirtle"
+    }],
+    "next_evolution": [{
+      "num": "009",
+      "name": "Blastoise"
+    }]
+  }, {
+    "id": 9,
+    "num": "009",
+    "name": "#009 Blastoise",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_009_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_009_00_shiny.png",
+    "type": [
+      "Agua"
+      "Favorito"
+    ],
+    "height": "1.60 m",
+    "weight": "85.5 kg",
+    "candy": "Squirtle Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0067,
+    "avg_spawns": 0.67,
+    "spawn_time": "00:06",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "prev_evolution": [{
+      "num": "007",
+      "name": "Squirtle"
+    }, {
+      "num": "008",
+      "name": "Wartortle"
+    }]
+  }, {
+    "id": 10,
+    "num": "010",
+    "name": "#010 Caterpie",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_010_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_010_00_shiny.png",
+    "type": [
+      "Bicho"
+    ],
+    "height": "0.30 m",
+    "weight": "2.9 kg",
+    "candy": "Caterpie Candy",
+    "candy_count": 12,
+    "egg": "2 km",
+    "spawn_chance": 3.032,
+    "avg_spawns": 303.2,
+    "spawn_time": "16:35",
+    "multipliers": [1.05],
+    "weaknesses": [
+      "Fuego",
+      "Volador",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "011",
+      "name": "Metapod"
+    }, {
+      "num": "012",
+      "name": "Butterfree"
+    }]
+  }, {
+    "id": 11,
+    "num": "011",
+    "name": "#011 Metapod",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_011_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_011_00_shiny.png",
+    "type": [
+      "Bicho"
+    ],
+    "height": "0.71 m",
+    "weight": "9.9 kg",
+    "candy": "Caterpie Candy",
+    "candy_count": 50,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.187,
+    "avg_spawns": 18.7,
+    "spawn_time": "02:11",
+    "multipliers": [
+      3.55,
+      3.79
+    ],
+    "weaknesses": [
+      "Fuego",
+      "Volador",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "010",
+      "name": "Caterpie"
+    }],
+    "next_evolution": [{
+      "num": "012",
+      "name": "Butterfree"
+    }]
+  }, {
+    "id": 12,
+    "num": "012",
+    "name": "#012 Butterfree",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_012_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_012_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_012_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_012_01_shiny.png",
+    "type": [
+      "Bicho",
+      "Volador"
+    ],
+    "height": "1.09 m",
+    "weight": "32.0 kg",
+    "candy": "Caterpie Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.022,
+    "avg_spawns": 2.2,
+    "spawn_time": "05:23",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Eléctrico",
+      "Hielo",
+      "Volador",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "010",
+      "name": "Caterpie"
+    }, {
+      "num": "011",
+      "name": "Metapod"
+    }]
+  }, {
+    "id": 13,
+    "num": "013",
+    "name": "#013 Weedle",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_013_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_013_00_shiny.png",
+    "type": [
+      "Bicho",
+      "Veneno"
+    ],
+    "height": "0.30 m",
+    "weight": "3.2 kg",
+    "candy": "Weedle Candy",
+    "candy_count": 12,
+    "egg": "2 km",
+    "spawn_chance": 7.12,
+    "avg_spawns": 712,
+    "spawn_time": "02:21",
+    "multipliers": [
+      1.01,
+      1.09
+    ],
+    "weaknesses": [
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "014",
+      "name": "Kakuna"
+    }, {
+      "num": "015",
+      "name": "Beedrill"
+    }]
+  }, {
+    "id": 14,
+    "num": "014",
+    "name": "#014 Kakuna",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_014_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_014_00_shiny.png",
+    "type": [
+      "Bicho",
+      "Veneno"
+    ],
+    "height": "0.61 m",
+    "weight": "10.0 kg",
+    "candy": "Weedle Candy",
+    "candy_count": 50,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.44,
+    "avg_spawns": 44,
+    "spawn_time": "02:30",
+    "multipliers": [
+      3.01,
+      3.41
+    ],
+    "weaknesses": [
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "013",
+      "name": "Weedle"
+    }],
+    "next_evolution": [{
+      "num": "015",
+      "name": "Beedrill"
+    }]
+  }, {
+    "id": 15,
+    "num": "015",
+    "name": "#015 Beedrill",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_015_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_015_00_shiny.png",
+    "type": [
+      "Bicho",
+      "Veneno"
+    ],
+    "height": "0.99 m",
+    "weight": "29.5 kg",
+    "candy": "Weedle Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.051,
+    "avg_spawns": 5.1,
+    "spawn_time": "04:50",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "013",
+      "name": "Weedle"
+    }, {
+      "num": "014",
+      "name": "Kakuna"
+    }]
+  }, {
+    "id": 16,
+    "num": "016",
+    "name": "#016 Pidgey",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_016_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_016_00_shiny.png",
+    "type": [
+      "Normal",
+      "Volador"
+    ],
+    "height": "0.30 m",
+    "weight": "1.8 kg",
+    "candy": "Pidgey Candy",
+    "candy_count": 12,
+    "egg": "2 km",
+    "spawn_chance": 15.98,
+    "avg_spawns": 1.598,
+    "spawn_time": "01:34",
+    "multipliers": [
+      1.71,
+      1.92
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "017",
+      "name": "Pidgeotto"
+    }, {
+      "num": "018",
+      "name": "Pidgeot"
+    }]
+  }, {
+    "id": 17,
+    "num": "017",
+    "name": "#017 Pidgeotto",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_017_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_017_00_shiny.png",
+    "type": [
+      "Normal",
+      "Volador"
+    ],
+    "height": "1.09 m",
+    "weight": "30.0 kg",
+    "candy": "Pidgey Candy",
+    "candy_count": 50,
+    "egg": "Not in Eggs",
+    "spawn_chance": 1.02,
+    "avg_spawns": 102,
+    "spawn_time": "01:30",
+    "multipliers": [1.79],
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "016",
+      "name": "Pidgey"
+    }],
+    "next_evolution": [{
+      "num": "018",
+      "name": "Pidgeot"
+    }]
+  }, {
+    "id": 18,
+    "num": "018",
+    "name": "#018 Pidgeot",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_018_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_018_00_shiny.png",
+    "type": [
+      "Normal",
+      "Volador"
+    ],
+    "height": "1.50 m",
+    "weight": "39.5 kg",
+    "candy": "Pidgey Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.13,
+    "avg_spawns": 13,
+    "spawn_time": "01:50",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "016",
+      "name": "Pidgey"
+    }, {
+      "num": "017",
+      "name": "Pidgeotto"
+    }]
+  }, {
+    "id": 19,
+    "num": "019",
+    "name": "#019 Rattata",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_019_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_019_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_019_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_019_01_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.30 m",
+    "weight": "3.5 kg",
+    "candy": "Rattata Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 13.05,
+    "avg_spawns": 1.305,
+    "spawn_time": "01:55",
+    "multipliers": [
+      2.55,
+      2.73
+    ],
+    "weaknesses": [
+      "Lucha"
+    ],
+    "next_evolution": [{
+      "num": "020",
+      "name": "Raticate"
+    }]
+  }, {
+    "id": 20,
+    "num": "020",
+    "name": "#020 Raticate",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_020_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_020_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_020_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_020_01_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.71 m",
+    "weight": "18.5 kg",
+    "candy": "Rattata Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.41,
+    "avg_spawns": 41,
+    "spawn_time": "01:56",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ],
+    "prev_evolution": [{
+      "num": "019",
+      "name": "Rattata"
+    }]
+  }, {
+    "id": 21,
+    "num": "021",
+    "name": "#021 Spearow",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_021_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_021_00_shiny.png",
+    "type": [
+      "Normal",
+      "Volador"
+    ],
+    "height": "0.30 m",
+    "weight": "2.0 kg",
+    "candy": "Spearow Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 4.73,
+    "avg_spawns": 473,
+    "spawn_time": "12:25",
+    "multipliers": [
+      2.66,
+      2.68
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "022",
+      "name": "Fearow"
+    }]
+  }, {
+    "id": 22,
+    "num": "022",
+    "name": "#022 Fearow",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_022_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_022_00_shiny.png",
+    "type": [
+      "Normal",
+      "Volador"
+    ],
+    "height": "1.19 m",
+    "weight": "38.0 kg",
+    "candy": "Spearow Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.15,
+    "avg_spawns": 15,
+    "spawn_time": "01:11",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "021",
+      "name": "Spearow"
+    }]
+  }, {
+    "id": 23,
+    "num": "023",
+    "name": "#023 Ekans",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_023_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_023_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "2.01 m",
+    "weight": "6.9 kg",
+    "candy": "Ekans Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.27,
+    "avg_spawns": 227,
+    "spawn_time": "12:20",
+    "multipliers": [
+      2.21,
+      2.27
+    ],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "024",
+      "name": "Arbok"
+    }]
+  }, {
+    "id": 24,
+    "num": "024",
+    "name": "#024 Arbok",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_024_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_024_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "3.51 m",
+    "weight": "65.0 kg",
+    "candy": "Ekans Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.072,
+    "avg_spawns": 7.2,
+    "spawn_time": "01:50",
+    "multipliers": null,
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "023",
+      "name": "Ekans"
+    }]
+  }, {
+    "id": 25,
+    "num": "025",
+    "name": "#025 Pikachu",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_025_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_025_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_025_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_025_01_shiny.png",
+    "type": [
+      "Eléctrico"
+    ],
+    "height": "0.41 m",
+    "weight": "6.0 kg",
+    "candy": "Pikachu Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.21,
+    "avg_spawns": 21,
+    "spawn_time": "04:00",
+    "multipliers": [2.34],
+    "weaknesses": [
+      "Tierra"
+    ],
+    "next_evolution": [{
+      "num": "026",
+      "name": "Raichu"
+    }]
+  }, {
+    "id": 26,
+    "num": "026",
+    "name": "#026 Raichu",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_026_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_026_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_026_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_026_01_shiny.png",
+    "type": [
+      "Eléctrico"
+    ],
+    "height": "0.79 m",
+    "weight": "30.0 kg",
+    "candy": "Pikachu Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0076,
+    "avg_spawns": 0.76,
+    "spawn_time": "23:58",
+    "multipliers": null,
+    "weaknesses": [
+      "Tierra"
+    ],
+    "prev_evolution": [{
+      "num": "025",
+      "name": "Pikachu"
+    }]
+  }, {
+    "id": 27,
+    "num": "027",
+    "name": "#027 Sandshrew",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_027_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_027_00_shiny.png",
+    "type": [
+      "Tierra"
+    ],
+    "height": "0.61 m",
+    "weight": "12.0 kg",
+    "candy": "Sandshrew Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 1.11,
+    "avg_spawns": 111,
+    "spawn_time": "01:58",
+    "multipliers": [2.45],
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo"
+    ],
+    "next_evolution": [{
+      "num": "028",
+      "name": "Sandslash"
+    }]
+  }, {
+    "id": 28,
+    "num": "028",
+    "name": "#028 Sandslash",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_028_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_028_00_shiny.png",
+    "type": [
+      "Tierra"
+    ],
+    "height": "0.99 m",
+    "weight": "29.5 kg",
+    "candy": "Sandshrew Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.037,
+    "avg_spawns": 3.7,
+    "spawn_time": "12:34",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo"
+    ],
+    "prev_evolution": [{
+      "num": "027",
+      "name": "Sandshrew"
+    }]
+  }, {
+    "id": 29,
+    "num": "029",
+    "name": "#029 Nidoran ♀ (Hembra)",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_029_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_029_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "0.41 m",
+    "weight": "7.0 kg",
+    "candy": "Nidoran ♀ (Female) Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 1.38,
+    "avg_spawns": 138,
+    "spawn_time": "01:51",
+    "multipliers": [
+      1.63,
+      2.48
+    ],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "030",
+      "name": "Nidorina"
+    }, {
+      "num": "031",
+      "name": "Nidoqueen"
+    }]
+  }, {
+    "id": 30,
+    "num": "030",
+    "name": "#030 Nidorina",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_030_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_030_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "0.79 m",
+    "weight": "20.0 kg",
+    "candy": "Nidoran ♀ (Female) Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.088,
+    "avg_spawns": 8.8,
+    "spawn_time": "07:22",
+    "multipliers": [
+      1.83,
+      2.48
+    ],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "029",
+      "name": "Nidoran(Female)"
+    }],
+    "next_evolution": [{
+      "num": "031",
+      "name": "Nidoqueen"
+    }]
+  }, {
+    "id": 31,
+    "num": "031",
+    "name": "#031 Nidoqueen",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_031_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_031_00_shiny.png",
+    "type": [
+      "Veneno",
+      "Tierra"
+    ],
+    "height": "1.30 m",
+    "weight": "60.0 kg",
+    "candy": "Nidoran ♀ (Female) Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "12:35",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Hielo",
+      "Tierra",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "029",
+      "name": "Nidoran(Female)"
+    }, {
+      "num": "030",
+      "name": "Nidorina"
+    }]
+  }, {
+    "id": 32,
+    "num": "032",
+    "name": "#032 Nidoran ♂ (Macho)",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_032_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_032_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "0.51 m",
+    "weight": "9.0 kg",
+    "candy": "Nidoran ♂ (Male) Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 1.31,
+    "avg_spawns": 131,
+    "spawn_time": "01:12",
+    "multipliers": [
+      1.64,
+      1.7
+    ],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "033",
+      "name": "Nidorino"
+    }, {
+      "num": "034",
+      "name": "Nidoking"
+    }]
+  }, {
+    "id": 33,
+    "num": "033",
+    "name": "#033 Nidorino",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_033_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_033_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "0.89 m",
+    "weight": "19.5 kg",
+    "candy": "Nidoran ♂ (Male) Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.083,
+    "avg_spawns": 8.3,
+    "spawn_time": "09:02",
+    "multipliers": [1.83],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "032",
+      "name": "Nidoran(Male)"
+    }],
+    "next_evolution": [{
+      "num": "034",
+      "name": "Nidoking"
+    }]
+  }, {
+    "id": 34,
+    "num": "034",
+    "name": "#034 Nidoking",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_034_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_034_00_shiny.png",
+    "type": [
+      "Veneno",
+      "Tierra"
+    ],
+    "height": "1.40 m",
+    "weight": "62.0 kg",
+    "candy": "Nidoran ♂ (Male) Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.017,
+    "avg_spawns": 1.7,
+    "spawn_time": "12:16",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Hielo",
+      "Tierra",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "032",
+      "name": "Nidoran(Male)"
+    }, {
+      "num": "033",
+      "name": "Nidorino"
+    }]
+  }, {
+    "id": 35,
+    "num": "035",
+    "name": "#035 Clefairy",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_035_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_035_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.61 m",
+    "weight": "7.5 kg",
+    "candy": "CleHada Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.92,
+    "avg_spawns": 92,
+    "spawn_time": "03:30",
+    "multipliers": [
+      2.03,
+      2.14
+    ],
+    "weaknesses": [
+      "Lucha"
+    ],
+    "next_evolution": [{
+      "num": "036",
+      "name": "Clefable"
+    }]
+  }, {
+    "id": 36,
+    "num": "036",
+    "name": "#036 Clefable",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_036_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_036_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.30 m",
+    "weight": "40.0 kg",
+    "candy": "CleHada Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "03:29",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ],
+    "prev_evolution": [{
+      "num": "035",
+      "name": "CleHada"
+    }]
+  }, {
+    "id": 37,
+    "num": "037",
+    "name": "#037 Vulpix",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_037_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_037_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "0.61 m",
+    "weight": "9.9 kg",
+    "candy": "Vulpix Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.22,
+    "avg_spawns": 22,
+    "spawn_time": "13:43",
+    "multipliers": [
+      2.74,
+      2.81
+    ],
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "038",
+      "name": "Ninetales"
+    }]
+  }, {
+    "id": 38,
+    "num": "038",
+    "name": "#038 Ninetales",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_038_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_038_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "1.09 m",
+    "weight": "19.9 kg",
+    "candy": "Vulpix Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0077,
+    "avg_spawns": 0.77,
+    "spawn_time": "01:32",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "037",
+      "name": "Vulpix"
+    }]
+  }, {
+    "id": 39,
+    "num": "039",
+    "name": "#039 Jigglypuff",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_039_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_039_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.51 m",
+    "weight": "5.5 kg",
+    "candy": "Jigglypuff Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.39,
+    "avg_spawns": 39,
+    "spawn_time": "08:46",
+    "multipliers": [1.85],
+    "weaknesses": [
+      "Lucha"
+    ],
+    "next_evolution": [{
+      "num": "040",
+      "name": "Wigglytuff"
+    }]
+  }, {
+    "id": 40,
+    "num": "040",
+    "name": "#040 Wigglytuff",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_040_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_040_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.99 m",
+    "weight": "12.0 kg",
+    "candy": "Jigglypuff Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.018,
+    "avg_spawns": 1.8,
+    "spawn_time": "12:28",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ],
+    "prev_evolution": [{
+      "num": "039",
+      "name": "Jigglypuff"
+    }]
+  }, {
+    "id": 41,
+    "num": "041",
+    "name": "#041 Zubat",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_041_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_041_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_041_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_041_01_shiny.png",
+    "type": [
+      "Veneno",
+      "Volador"
+    ],
+    "height": "0.79 m",
+    "weight": "7.5 kg",
+    "candy": "Zubat Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 6.52,
+    "avg_spawns": 652,
+    "spawn_time": "12:28",
+    "multipliers": [
+      2.6,
+      3.67
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Hielo",
+      "Psíquico",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "042",
+      "name": "Golbat"
+    }]
+  }, {
+    "id": 42,
+    "num": "042",
+    "name": "#042 Golbat",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_042_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_042_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_042_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_042_01_shiny.png",
+    "type": [
+      "Veneno",
+      "Volador"
+    ],
+    "height": "1.60 m",
+    "weight": "55.0 kg",
+    "candy": "Zubat Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.42,
+    "avg_spawns": 42,
+    "spawn_time": "02:15",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Hielo",
+      "Psíquico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "041",
+      "name": "Zubat"
+    }]
+  }, {
+    "id": 43,
+    "num": "043",
+    "name": "#043 Oddish",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_043_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_043_00_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "height": "0.51 m",
+    "weight": "5.4 kg",
+    "candy": "Oddish Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 1.02,
+    "avg_spawns": 102,
+    "spawn_time": "03:58",
+    "multipliers": [1.5],
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "044",
+      "name": "Gloom"
+    }, {
+      "num": "045",
+      "name": "Vileplume"
+    }]
+  }, {
+    "id": 44,
+    "num": "044",
+    "name": "#044 Gloom",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_044_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_044_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_044_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_044_01_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "height": "0.79 m",
+    "weight": "8.6 kg",
+    "candy": "Oddish Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.064,
+    "avg_spawns": 6.4,
+    "spawn_time": "11:33",
+    "multipliers": [1.49],
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "043",
+      "name": "Oddish"
+    }],
+    "next_evolution": [{
+      "num": "045",
+      "name": "Vileplume"
+    }]
+  }, {
+    "id": 45,
+    "num": "045",
+    "name": "#045 Vileplume",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_045_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_045_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_045_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_045_01_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "height": "1.19 m",
+    "weight": "18.6 kg",
+    "candy": "Oddish Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0097,
+    "avg_spawns": 0.97,
+    "spawn_time": "23:58",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "043",
+      "name": "Oddish"
+    }, {
+      "num": "044",
+      "name": "Gloom"
+    }]
+  }, {
+    "id": 46,
+    "num": "046",
+    "name": "#046 Paras",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_046_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_046_00_shiny.png",
+    "type": [
+      "Bicho",
+      "Planta"
+    ],
+    "height": "0.30 m",
+    "weight": "5.4 kg",
+    "candy": "Paras Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.36,
+    "avg_spawns": 236,
+    "spawn_time": "01:42",
+    "multipliers": [2.02],
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "047",
+      "name": "Parasect"
+    }]
+  }, {
+    "id": 47,
+    "num": "047",
+    "name": "#047 Parasect",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_047_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_047_00_shiny.png",
+    "type": [
+      "Bicho",
+      "Planta"
+    ],
+    "height": "0.99 m",
+    "weight": "29.5 kg",
+    "candy": "Paras Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.074,
+    "avg_spawns": 7.4,
+    "spawn_time": "01:22",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "046",
+      "name": "Paras"
+    }]
+  }, {
+    "id": 48,
+    "num": "048",
+    "name": "#048 Venonat",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_048_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_048_00_shiny.png",
+    "type": [
+      "Bicho",
+      "Veneno"
+    ],
+    "height": "0.99 m",
+    "weight": "30.0 kg",
+    "candy": "Venonat Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.28,
+    "avg_spawns": 228,
+    "spawn_time": "02:31",
+    "multipliers": [
+      1.86,
+      1.9
+    ],
+    "weaknesses": [
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "049",
+      "name": "Venomoth"
+    }]
+  }, {
+    "id": 49,
+    "num": "049",
+    "name": "#049 Venomoth",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_049_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_049_00_shiny.png",
+    "type": [
+      "Bicho",
+      "Veneno"
+    ],
+    "height": "1.50 m",
+    "weight": "12.5 kg",
+    "candy": "Venonat Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.072,
+    "avg_spawns": 7.2,
+    "spawn_time": "23:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "048",
+      "name": "Venonat"
+    }]
+  }, {
+    "id": 50,
+    "num": "050",
+    "name": "#050 Diglett",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_050_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_050_00_shiny.png",
+    "type": [
+      "Tierra"
+    ],
+    "height": "0.20 m",
+    "weight": "0.8 kg",
+    "candy": "Diglett Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.40,
+    "avg_spawns": 40,
+    "spawn_time": "02:22",
+    "multipliers": [2.69],
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo"
+    ],
+    "next_evolution": [{
+      "num": "051",
+      "name": "Dugtrio"
+    }]
+  }, {
+    "id": 51,
+    "num": "051",
+    "name": "#051 Dugtrio",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_051_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_051_00_shiny.png",
+    "type": [
+      "Tierra"
+    ],
+    "height": "0.71 m",
+    "weight": "33.3 kg",
+    "candy": "Dugtrio",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.014,
+    "avg_spawns": 1.4,
+    "spawn_time": "12:37",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo"
+    ],
+    "prev_evolution": [{
+      "num": "050",
+      "name": "Diglett"
+    }]
+  }, {
+    "id": 52,
+    "num": "052",
+    "name": "#052 Meowth",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_052_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_052_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.41 m",
+    "weight": "4.2 kg",
+    "candy": "Meowth Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.86,
+    "avg_spawns": 86,
+    "spawn_time": "02:54",
+    "multipliers": [1.98],
+    "weaknesses": [
+      "Lucha"
+    ],
+    "next_evolution": [{
+      "num": "053",
+      "name": "Persian"
+    }]
+  }, {
+    "id": 53,
+    "num": "053",
+    "name": "#053 Persian",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_053_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_053_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.99 m",
+    "weight": "32.0 kg",
+    "candy": "Meowth Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.022,
+    "avg_spawns": 2.2,
+    "spawn_time": "02:44",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ],
+    "prev_evolution": [{
+      "num": "052",
+      "name": "Meowth"
+    }]
+  }, {
+    "id": 54,
+    "num": "054",
+    "name": "#054 Psyduck",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_054_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_054_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.79 m",
+    "weight": "19.6 kg",
+    "candy": "Psyduck Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.54,
+    "avg_spawns": 254,
+    "spawn_time": "03:41",
+    "multipliers": [2.27],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "055",
+      "name": "Golduck"
+    }]
+  }, {
+    "id": 55,
+    "num": "055",
+    "name": "#055 Golduck",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_055_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_055_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "1.70 m",
+    "weight": "76.6 kg",
+    "candy": "Psyduck Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.087,
+    "avg_spawns": 8.7,
+    "spawn_time": "23:06",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "prev_evolution": [{
+      "num": "054",
+      "name": "Psyduck"
+    }]
+  }, {
+    "id": 56,
+    "num": "056",
+    "name": "#056 Mankey",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_056_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_056_00_shiny.png",
+    "type": [
+      "Lucha"
+    ],
+    "height": "0.51 m",
+    "weight": "28.0 kg",
+    "candy": "Mankey Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.92,
+    "avg_spawns": 92,
+    "spawn_time": "12:52",
+    "multipliers": [
+      2.17,
+      2.28
+    ],
+    "weaknesses": [
+      "Volador",
+      "Psíquico",
+      "Hada"
+    ],
+    "next_evolution": [{
+      "num": "057",
+      "name": "Primeape"
+    }]
+  }, {
+    "id": 57,
+    "num": "057",
+    "name": "#057 Primeape",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_057_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_057_00_shiny.png",
+    "type": [
+      "Lucha"
+    ],
+    "height": "0.99 m",
+    "weight": "32.0 kg",
+    "candy": "Mankey Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.031,
+    "avg_spawns": 3.1,
+    "spawn_time": "12:33",
+    "multipliers": null,
+    "weaknesses": [
+      "Volador",
+      "Psíquico",
+      "Hada"
+    ],
+    "prev_evolution": [{
+      "num": "056",
+      "name": "Mankey"
+    }]
+  }, {
+    "id": 58,
+    "num": "058",
+    "name": "#058 Growlithe",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_058_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_058_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "0.71 m",
+    "weight": "19.0 kg",
+    "candy": "Growlithe Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.92,
+    "avg_spawns": 92,
+    "spawn_time": "03:57",
+    "multipliers": [
+      2.31,
+      2.36
+    ],
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "059",
+      "name": "Arcanine"
+    }]
+  }, {
+    "id": 59,
+    "num": "059",
+    "name": "#059 Arcanine",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_059_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_059_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "1.91 m",
+    "weight": "155.0 kg",
+    "candy": "Growlithe Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.017,
+    "avg_spawns": 1.7,
+    "spawn_time": "03:11",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "058",
+      "name": "Growlithe"
+    }]
+  }, {
+    "id": 60,
+    "num": "060",
+    "name": "#060 Poliwag",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_060_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_060_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.61 m",
+    "weight": "12.4 kg",
+    "candy": "Poliwag Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 2.19,
+    "avg_spawns": 219,
+    "spawn_time": "03:40",
+    "multipliers": [
+      1.72,
+      1.73
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "061",
+      "name": "Poliwhirl"
+    }, {
+      "num": "062",
+      "name": "Poliwrath"
+    }]
+  }, {
+    "id": 61,
+    "num": "061",
+    "name": "#061 Poliwhirl",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_061_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_061_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.99 m",
+    "weight": "20.0 kg",
+    "candy": "Poliwag Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.13,
+    "avg_spawns": 13,
+    "spawn_time": "09:14",
+    "multipliers": [1.95],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "prev_evolution": [{
+      "num": "060",
+      "name": "Poliwag"
+    }],
+    "next_evolution": [{
+      "num": "062",
+      "name": "Poliwrath"
+    }]
+  }, {
+    "id": 62,
+    "num": "062",
+    "name": "#062 Poliwrath",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_062_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_062_00_shiny.png",
+    "type": [
+      "Agua",
+      "Lucha"
+    ],
+    "height": "1.30 m",
+    "weight": "54.0 kg",
+    "candy": "Poliwag Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.011,
+    "avg_spawns": 1.1,
+    "spawn_time": "01:32",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Volador",
+      "Psíquico",
+      "Hada"
+    ],
+    "prev_evolution": [{
+      "num": "060",
+      "name": "Poliwag"
+    }, {
+      "num": "061",
+      "name": "Poliwhirl"
+    }]
+  }, {
+    "id": 63,
+    "num": "063",
+    "name": "#063 Abra",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_063_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_063_00_shiny.png",
+    "type": [
+      "Psíquico"
+    ],
+    "height": "0.89 m",
+    "weight": "19.5 kg",
+    "candy": "Abra Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 0.42,
+    "avg_spawns": 42,
+    "spawn_time": "04:30",
+    "multipliers": [
+      1.36,
+      1.95
+    ],
+    "weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "next_evolution": [{
+      "num": "064",
+      "name": "Kadabra"
+    }, {
+      "num": "065",
+      "name": "Alakazam"
+    }]
+  }, {
+    "id": 64,
+    "num": "064",
+    "name": "#064 Kadabra",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_064_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_064_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_064_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_064_01_shiny.png",
+    "type": [
+      "Psíquico"
+    ],
+    "height": "1.30 m",
+    "weight": "56.5 kg",
+    "candy": "Abra Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.027,
+    "avg_spawns": 2.7,
+    "spawn_time": "11:25",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "prev_evolution": [{
+      "num": "063",
+      "name": "Abra"
+    }],
+    "next_evolution": [{
+      "num": "065",
+      "name": "Alakazam"
+    }]
+  }, {
+    "id": 65,
+    "num": "065",
+    "name": "#065 Alakazam",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_065_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_065_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_065_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_065_01_shiny.png",
+    "type": [
+      "Psíquico"
+    ],
+    "height": "1.50 m",
+    "weight": "48.0 kg",
+    "candy": "Abra Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0073,
+    "avg_spawns": 0.73,
+    "spawn_time": "12:33",
+    "multipliers": null,
+    "weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "prev_evolution": [{
+      "num": "063",
+      "name": "Abra"
+    }, {
+      "num": "064",
+      "name": "Kadabra"
+    }]
+  }, {
+    "id": 66,
+    "num": "066",
+    "name": "#066 Machop",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_066_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_066_00_shiny.png",
+    "type": [
+      "Lucha"
+    ],
+    "height": "0.79 m",
+    "weight": "19.5 kg",
+    "candy": "Machop Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 0.49,
+    "avg_spawns": 49,
+    "spawn_time": "01:55",
+    "multipliers": [
+      1.64,
+      1.65
+    ],
+    "weaknesses": [
+      "Volador",
+      "Psíquico",
+      "Hada"
+    ],
+    "next_evolution": [{
+      "num": "067",
+      "name": "Machoke"
+    }, {
+      "num": "068",
+      "name": "Machamp"
+    }]
+  }, {
+    "id": 67,
+    "num": "067",
+    "name": "#067 Machoke",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_067_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_067_00_shiny.png",
+    "type": [
+      "Lucha"
+    ],
+    "height": "1.50 m",
+    "weight": "70.5 kg",
+    "candy": "Machop Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "10:32",
+    "multipliers": [1.7],
+    "weaknesses": [
+      "Volador",
+      "Psíquico",
+      "Hada"
+    ],
+    "prev_evolution": [{
+      "num": "066",
+      "name": "Machop"
+    }],
+    "next_evolution": [{
+      "num": "068",
+      "name": "Machamp"
+    }]
+  }, {
+    "id": 68,
+    "num": "068",
+    "name": "#068 Machamp",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_068_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_068_00_shiny.png",
+    "type": [
+      "Lucha"
+    ],
+    "height": "1.60 m",
+    "weight": "130.0 kg",
+    "candy": "Machop Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0068,
+    "avg_spawns": 0.68,
+    "spawn_time": "02:55",
+    "multipliers": null,
+    "weaknesses": [
+      "Volador",
+      "Psíquico",
+      "Hada"
+    ],
+    "prev_evolution": [{
+      "num": "066",
+      "name": "Machop"
+    }, {
+      "num": "067",
+      "name": "Machoke"
+    }]
+  }, {
+    "id": 69,
+    "num": "069",
+    "name": "#069 Bellsprout",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_069_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_069_00_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "height": "0.71 m",
+    "weight": "4.0 kg",
+    "candy": "Bellsprout Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 1.15,
+    "avg_spawns": 115,
+    "spawn_time": "04:10",
+    "multipliers": [1.57],
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "070",
+      "name": "Weepinbell"
+    }, {
+      "num": "071",
+      "name": "Victreebel"
+    }]
+  }, {
+    "id": 70,
+    "num": "070",
+    "name": "#070 Weepinbell",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_070_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_070_00_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "height": "0.99 m",
+    "weight": "6.4 kg",
+    "candy": "Bellsprout Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.072,
+    "avg_spawns": 7.2,
+    "spawn_time": "09:45",
+    "multipliers": [1.59],
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "069",
+      "name": "Bellsprout"
+    }],
+    "next_evolution": [{
+      "num": "071",
+      "name": "Victreebel"
+    }]
+  }, {
+    "id": 71,
+    "num": "071",
+    "name": "#071 Victreebel",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_071_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_071_00_shiny.png",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "height": "1.70 m",
+    "weight": "15.5 kg",
+    "candy": "Bellsprout Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0059,
+    "avg_spawns": 0.59,
+    "spawn_time": "12:19",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "069",
+      "name": "Bellsprout"
+    }, {
+      "num": "070",
+      "name": "Weepinbell"
+    }]
+  }, {
+    "id": 72,
+    "num": "072",
+    "name": "#072 Tentacool",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_072_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_072_00_shiny.png",
+    "type": [
+      "Agua",
+      "Veneno"
+    ],
+    "height": "0.89 m",
+    "weight": "45.5 kg",
+    "candy": "Tentacool Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.81,
+    "avg_spawns": 81,
+    "spawn_time": "03:20",
+    "multipliers": [2.52],
+    "weaknesses": [
+      "Eléctrico",
+      "Tierra",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "073",
+      "name": "Tentacruel"
+    }]
+  }, {
+    "id": 73,
+    "num": "073",
+    "name": "#073 Tentacruel",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_073_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_073_00_shiny.png",
+    "type": [
+      "Agua",
+      "Veneno"
+    ],
+    "height": "1.60 m",
+    "weight": "55.0 kg",
+    "candy": "Tentacool Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.082,
+    "avg_spawns": 8.2,
+    "spawn_time": "23:36",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Tierra",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "072",
+      "name": "Tentacool"
+    }]
+  }, {
+    "id": 74,
+    "num": "074",
+    "name": "#074 Geodude",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_074_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_074_00_shiny.png",
+    "type": [
+      "Roca",
+      "Tierra"
+    ],
+    "height": "0.41 m",
+    "weight": "20.0 kg",
+    "candy": "Geodude Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 1.19,
+    "avg_spawns": 119,
+    "spawn_time": "12:40",
+    "multipliers": [
+      1.75,
+      1.76
+    ],
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo",
+      "Lucha",
+      "Tierra",
+      "Acero"
+    ],
+    "next_evolution": [{
+      "num": "075",
+      "name": "Graveler"
+    }, {
+      "num": "076",
+      "name": "Golem"
+    }]
+  }, {
+    "id": 75,
+    "num": "075",
+    "name": "#075 Graveler",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_075_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_075_00_shiny.png",
+    "type": [
+      "Roca",
+      "Tierra"
+    ],
+    "height": "0.99 m",
+    "weight": "105.0 kg",
+    "candy": "Geodude Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.071,
+    "avg_spawns": 7.1,
+    "spawn_time": "04:53",
+    "multipliers": [
+      1.64,
+      1.72
+    ],
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo",
+      "Lucha",
+      "Tierra",
+      "Acero"
+    ],
+    "prev_evolution": [{
+      "num": "074",
+      "name": "Geodude"
+    }],
+    "next_evolution": [{
+      "num": "076",
+      "name": "Golem"
+    }]
+  }, {
+    "id": 76,
+    "num": "076",
+    "name": "#076 Golem",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_076_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_076_00_shiny.png",
+    "type": [
+      "Roca",
+      "Tierra"
+    ],
+    "height": "1.40 m",
+    "weight": "300.0 kg",
+    "candy": "Geodude Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0047,
+    "avg_spawns": 0.47,
+    "spawn_time": "12:16",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo",
+      "Lucha",
+      "Tierra",
+      "Acero"
+    ],
+    "prev_evolution": [{
+      "num": "074",
+      "name": "Geodude"
+    }, {
+      "num": "075",
+      "name": "Graveler"
+    }]
+  }, {
+    "id": 77,
+    "num": "077",
+    "name": "#077 Ponyta",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_077_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_077_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "0.99 m",
+    "weight": "30.0 kg",
+    "candy": "Ponyta Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.51,
+    "avg_spawns": 51,
+    "spawn_time": "02:50",
+    "multipliers": [
+      1.48,
+      1.5
+    ],
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "078",
+      "name": "Rapidash"
+    }]
+  }, {
+    "id": 78,
+    "num": "078",
+    "name": "#078 Rapidash",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_078_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_078_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "1.70 m",
+    "weight": "95.0 kg",
+    "candy": "Ponyta Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.011,
+    "avg_spawns": 1.1,
+    "spawn_time": "04:00",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "077",
+      "name": "Ponyta"
+    }]
+  }, {
+    "id": 79,
+    "num": "079",
+    "name": "#079 Slowpoke",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_079_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_079_00_shiny.png",
+    "type": [
+      "Agua",
+      "Psíquico"
+    ],
+    "height": "1.19 m",
+    "weight": "36.0 kg",
+    "candy": "Slowpoke Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 1.05,
+    "avg_spawns": 105,
+    "spawn_time": "07:12",
+    "multipliers": [2.21],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "next_evolution": [{
+      "num": "080",
+      "name": "Slowbro"
+    }]
+  }, {
+    "id": 80,
+    "num": "080",
+    "name": "#080 Slowbro",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_080_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_080_00_shiny.png",
+    "type": [
+      "Agua",
+      "Psíquico"
+    ],
+    "height": "1.60 m",
+    "weight": "78.5 kg",
+    "candy": "Slowpoke Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.036,
+    "avg_spawns": 3.6,
+    "spawn_time": "02:56",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "prev_evolution": [{
+      "num": "079",
+      "name": "Slowpoke"
+    }]
+  }, {
+    "id": 81,
+    "num": "081",
+    "name": "#081 Magnemite",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_081_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_081_00_shiny.png",
+    "type": [
+      "Eléctrico"
+    ],
+    "height": "0.30 m",
+    "weight": "6.0 kg",
+    "candy": "Magnemite Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.71,
+    "avg_spawns": 71,
+    "spawn_time": "04:04",
+    "multipliers": [
+      2.16,
+      2.17
+    ],
+    "weaknesses": [
+      "Fuego",
+      "Agua",
+      "Tierra"
+    ],
+    "next_evolution": [{
+      "num": "082",
+      "name": "Magneton"
+    }]
+  }, {
+    "id": 82,
+    "num": "082",
+    "name": "#082 Magneton",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_082_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_082_00_shiny.png",
+    "type": [
+      "Eléctrico"
+    ],
+    "height": "0.99 m",
+    "weight": "60.0 kg",
+    "candy": "Magnemite Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.023,
+    "avg_spawns": 2.3,
+    "spawn_time": "15:25",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Agua",
+      "Tierra"
+    ],
+    "prev_evolution": [{
+      "num": "081",
+      "name": "Magnemite"
+    }]
+  }, {
+    "id": 83,
+    "num": "083",
+    "name": "#083 Farfetch'd",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_083_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_083_00_shiny.png",
+    "type": [
+      "Normal",
+      "Volador"
+    ],
+    "height": "0.79 m",
+    "weight": "15.0 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.0212,
+    "avg_spawns": 2.12,
+    "spawn_time": "01:09",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ]
+  }, {
+    "id": 84,
+    "num": "084",
+    "name": "#084 Doduo",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_084_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_084_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_084_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_084_01_shiny.png",
+    "type": [
+      "Normal",
+      "Volador"
+    ],
+    "height": "1.40 m",
+    "weight": "39.2 kg",
+    "candy": "Doduo Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.52,
+    "avg_spawns": 52,
+    "spawn_time": "05:10",
+    "multipliers": [
+      2.19,
+      2.24
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ],
+    "next_evolution": [{
+      "num": "085",
+      "name": "Dodrio"
+    }]
+  }, {
+    "id": 85,
+    "num": "085",
+    "name": "#085 Dodrio",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_085_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_085_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_085_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_085_01_shiny.png",
+    "type": [
+      "Normal",
+      "Volador"
+    ],
+    "height": "1.80 m",
+    "weight": "85.2 kg",
+    "candy": "Doduo Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.22,
+    "avg_spawns": 22,
+    "spawn_time": "02:12",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "084",
+      "name": "Doduo"
+    }]
+  }, {
+    "id": 86,
+    "num": "086",
+    "name": "#086 Seel",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_086_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_086_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "1.09 m",
+    "weight": "90.0 kg",
+    "candy": "Seel Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.28,
+    "avg_spawns": 28,
+    "spawn_time": "06:46",
+    "multipliers": [
+      1.04,
+      1.96
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "087",
+      "name": "Dewgong"
+    }]
+  }, {
+    "id": 87,
+    "num": "087",
+    "name": "#087 Dewgong",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_087_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_087_00_shiny.png",
+    "type": [
+      "Agua",
+      "Hielo"
+    ],
+    "height": "1.70 m",
+    "weight": "120.0 kg",
+    "candy": "Seel Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.013,
+    "avg_spawns": 1.3,
+    "spawn_time": "06:04",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Lucha",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "086",
+      "name": "Seel"
+    }]
+  }, {
+    "id": 88,
+    "num": "088",
+    "name": "#088 Grimer",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_088_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_088_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "0.89 m",
+    "weight": "30.0 kg",
+    "candy": "Grimer Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.052,
+    "avg_spawns": 5.2,
+    "spawn_time": "15:11",
+    "multipliers": [2.44],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "089",
+      "name": "Muk"
+    }]
+  }, {
+    "id": 89,
+    "num": "089",
+    "name": "#089 Muk",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_089_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_089_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "1.19 m",
+    "weight": "30.0 kg",
+    "candy": "Grimer Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0031,
+    "avg_spawns": 0.31,
+    "spawn_time": "01:28",
+    "multipliers": null,
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "088",
+      "name": "Grimer"
+    }]
+  }, {
+    "id": 90,
+    "num": "090",
+    "name": "#090 Shellder",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_090_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_090_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.30 m",
+    "weight": "4.0 kg",
+    "candy": "Shellder Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.52,
+    "avg_spawns": 52,
+    "spawn_time": "07:39",
+    "multipliers": [2.65],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "091",
+      "name": "Cloyster"
+    }]
+  }, {
+    "id": 91,
+    "num": "091",
+    "name": "#091 Cloyster",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_091_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_091_00_shiny.png",
+    "type": [
+      "Agua",
+      "Hielo"
+    ],
+    "height": "1.50 m",
+    "weight": "132.5 kg",
+    "candy": "Shellder Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.015,
+    "avg_spawns": 1.5,
+    "spawn_time": "02:33",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Lucha",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "090",
+      "name": "Shellder"
+    }]
+  }, {
+    "id": 92,
+    "num": "092",
+    "name": "#092 Gastly",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_092_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_092_00_shiny.png",
+    "type": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "height": "1.30 m",
+    "weight": "0.1 kg",
+    "candy": "Gastly Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 0.79,
+    "avg_spawns": 79,
+    "spawn_time": "04:21",
+    "multipliers": [1.78],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "next_evolution": [{
+      "num": "093",
+      "name": "Haunter"
+    }, {
+      "num": "094",
+      "name": "Gengar"
+    }]
+  }, {
+    "id": 93,
+    "num": "093",
+    "name": "#093 Haunter",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_093_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_093_00_shiny.png",
+    "type": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "height": "1.60 m",
+    "weight": "0.1 kg",
+    "candy": "Gastly Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.052,
+    "avg_spawns": 5.2,
+    "spawn_time": "00:10",
+    "multipliers": [
+      1.56,
+      1.8
+    ],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "prev_evolution": [{
+      "num": "092",
+      "name": "Gastly"
+    }],
+    "next_evolution": [{
+      "num": "094",
+      "name": "Gengar"
+    }]
+  }, {
+    "id": 94,
+    "num": "094",
+    "name": "#094 Gengar",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_094_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_094_00_shiny.png",
+    "type": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "height": "1.50 m",
+    "weight": "40.5 kg",
+    "candy": "Gastly Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0067,
+    "avg_spawns": 0.67,
+    "spawn_time": "03:55",
+    "multipliers": null,
+    "weaknesses": [
+      "Tierra",
+      "Psíquico",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "prev_evolution": [{
+      "num": "092",
+      "name": "Gastly"
+    }, {
+      "num": "093",
+      "name": "Haunter"
+    }]
+  }, {
+    "id": 95,
+    "num": "095",
+    "name": "#095 Onix",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_095_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_095_00_shiny.png",
+    "type": [
+      "Roca",
+      "Tierra"
+    ],
+    "height": "8.79 m",
+    "weight": "210.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.10,
+    "avg_spawns": 10,
+    "spawn_time": "01:18",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo",
+      "Lucha",
+      "Tierra",
+      "Acero"
+    ]
+  }, {
+    "id": 96,
+    "num": "096",
+    "name": "#096 Drowzee",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_096_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_096_00_shiny.png",
+    "type": [
+      "Psíquico"
+    ],
+    "height": "0.99 m",
+    "weight": "32.4 kg",
+    "candy": "Drowzee Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 3.21,
+    "avg_spawns": 321,
+    "spawn_time": "01:51",
+    "multipliers": [
+      2.08,
+      2.09
+    ],
+    "weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "next_evolution": [{
+      "num": "097",
+      "name": "Hypno"
+    }]
+  }, {
+    "id": 97,
+    "num": "097",
+    "name": "#097 Hypno",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_097_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_097_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_097_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_097_01_shiny.png",
+    "type": [
+      "Psíquico"
+    ],
+    "height": "1.60 m",
+    "weight": "75.6 kg",
+    "candy": "Drowzee Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.10,
+    "avg_spawns": 10,
+    "spawn_time": "02:17",
+    "multipliers": null,
+    "weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "prev_evolution": [{
+      "num": "096",
+      "name": "Drowzee"
+    }]
+  }, {
+    "id": 98,
+    "num": "098",
+    "name": "#098 Krabby",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_098_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_098_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.41 m",
+    "weight": "6.5 kg",
+    "candy": "Krabby Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.12,
+    "avg_spawns": 212,
+    "spawn_time": "03:33",
+    "multipliers": [
+      2.36,
+      2.4
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "099",
+      "name": "Kingler"
+    }]
+  }, {
+    "id": 99,
+    "num": "099",
+    "name": "#099 Kingler",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_099_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_099_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "1.30 m",
+    "weight": "60.0 kg",
+    "candy": "Krabby Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.062,
+    "avg_spawns": 6.2,
+    "spawn_time": "03:44",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "prev_evolution": [{
+      "num": "098",
+      "name": "Krabby"
+    }]
+  }, {
+    "id": 100,
+    "num": "100",
+    "name": "#100 Voltorb",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_100_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_100_00_shiny.png",
+    "type": [
+      "Eléctrico"
+    ],
+    "height": "0.51 m",
+    "weight": "10.4 kg",
+    "candy": "Voltorb Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.65,
+    "avg_spawns": 65,
+    "spawn_time": "04:36",
+    "multipliers": [
+      2.01,
+      2.02
+    ],
+    "weaknesses": [
+      "Tierra"
+    ],
+    "next_evolution": [{
+      "num": "101",
+      "name": "Electrode"
+    }]
+  }, {
+    "id": 101,
+    "num": "101",
+    "name": "#101 Electrode",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_101_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_101_00_shiny.png",
+    "type": [
+      "Eléctrico"
+    ],
+    "height": "1.19 m",
+    "weight": "66.6 kg",
+    "candy": "Voltorb Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.02,
+    "avg_spawns": 2,
+    "spawn_time": "04:10",
+    "multipliers": null,
+    "weaknesses": [
+      "Tierra"
+    ],
+    "prev_evolution": [{
+      "num": "100",
+      "name": "Voltorb"
+    }]
+  }, {
+    "id": 102,
+    "num": "102",
+    "name": "#102 Exeggcute",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_102_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_102_00_shiny.png",
+    "type": [
+      "Planta",
+      "Psíquico"
+    ],
+    "height": "0.41 m",
+    "weight": "2.5 kg",
+    "candy": "Exeggcute Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.78,
+    "avg_spawns": 78,
+    "spawn_time": "09:09",
+    "multipliers": [
+      2.7,
+      3.18
+    ],
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "next_evolution": [{
+      "num": "103",
+      "name": "Exeggutor"
+    }]
+  }, {
+    "id": 103,
+    "num": "103",
+    "name": "#103 Exeggutor",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_103_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_103_00_shiny.png",
+    "type": [
+      "Planta",
+      "Psíquico"
+    ],
+    "height": "2.01 m",
+    "weight": "120.0 kg",
+    "candy": "Exeggcute Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.014,
+    "avg_spawns": 1.4,
+    "spawn_time": "12:34",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "prev_evolution": [{
+      "num": "102",
+      "name": "Exeggcute"
+    }]
+  }, {
+    "id": 104,
+    "num": "104",
+    "name": "#104 Cubone",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_104_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_104_00_shiny.png",
+    "type": [
+      "Tierra"
+    ],
+    "height": "0.41 m",
+    "weight": "6.5 kg",
+    "candy": "Cubone Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.61,
+    "avg_spawns": 61,
+    "spawn_time": "01:51",
+    "multipliers": [1.67],
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo"
+    ],
+    "next_evolution": [{
+      "num": "105",
+      "name": "Marowak"
+    }]
+  }, {
+    "id": 105,
+    "num": "105",
+    "name": "#105 Marowak",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_105_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_105_00_shiny.png",
+    "type": [
+      "Tierra"
+    ],
+    "height": "0.99 m",
+    "weight": "45.0 kg",
+    "candy": "Cubone Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.02,
+    "avg_spawns": 2,
+    "spawn_time": "03:59",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo"
+    ],
+    "prev_evolution": [{
+      "num": "104",
+      "name": "Cubone"
+    }]
+  }, {
+    "id": 106,
+    "num": "106",
+    "name": "#106 Hitmonlee",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_106_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_106_00_shiny.png",
+    "type": [
+      "Lucha"
+    ],
+    "height": "1.50 m",
+    "weight": "49.8 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.02,
+    "avg_spawns": 2,
+    "spawn_time": "03:59",
+    "multipliers": null,
+    "weaknesses": [
+      "Volador",
+      "Psíquico",
+      "Hada"
+    ]
+  }, {
+    "id": 107,
+    "num": "107",
+    "name": "#107 Hitmonchan",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_107_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_107_00_shiny.png",
+    "type": [
+      "Lucha"
+    ],
+    "height": "1.40 m",
+    "weight": "50.2 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.022,
+    "avg_spawns": 2.2,
+    "spawn_time": "05:58",
+    "multipliers": null,
+    "weaknesses": [
+      "Volador",
+      "Psíquico",
+      "Hada"
+    ]
+  }, {
+    "id": 108,
+    "num": "108",
+    "name": "#108 Lickitung",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_108_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_108_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.19 m",
+    "weight": "65.5 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.011,
+    "avg_spawns": 1.1,
+    "spawn_time": "02:46",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ]
+  }, {
+    "id": 109,
+    "num": "109",
+    "name": "#109 Koffing",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_109_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_109_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "0.61 m",
+    "weight": "1.0 kg",
+    "candy": "Koffing Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.20,
+    "avg_spawns": 20,
+    "spawn_time": "08:16",
+    "multipliers": [1.11],
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "next_evolution": [{
+      "num": "110",
+      "name": "Weezing"
+    }]
+  }, {
+    "id": 110,
+    "num": "110",
+    "name": "#110 Weezing",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_110_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_110_00_shiny.png",
+    "type": [
+      "Veneno"
+    ],
+    "height": "1.19 m",
+    "weight": "9.5 kg",
+    "candy": "Koffing Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.016,
+    "avg_spawns": 1.6,
+    "spawn_time": "12:17",
+    "multipliers": null,
+    "weaknesses": [
+      "Tierra",
+      "Psíquico"
+    ],
+    "prev_evolution": [{
+      "num": "109",
+      "name": "Koffing"
+    }]
+  }, {
+    "id": 111,
+    "num": "111",
+    "name": "#111 Rhyhorn",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_111_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_111_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_111_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_111_01_shiny.png",
+    "type": [
+      "Tierra",
+      "Roca"
+    ],
+    "height": "0.99 m",
+    "weight": "115.0 kg",
+    "candy": "Rhyhorn Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.63,
+    "avg_spawns": 63,
+    "spawn_time": "03:21",
+    "multipliers": [1.91],
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo",
+      "Lucha",
+      "Tierra",
+      "Acero"
+    ],
+    "next_evolution": [{
+      "num": "112",
+      "name": "Rhydon"
+    }]
+  }, {
+    "id": 112,
+    "num": "112",
+    "name": "#112 Rhydon",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_112_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_112_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_112_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_112_01_shiny.png",
+    "type": [
+      "Tierra",
+      "Roca"
+    ],
+    "height": "1.91 m",
+    "weight": "120.0 kg",
+    "candy": "Rhyhorn Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.022,
+    "avg_spawns": 2.2,
+    "spawn_time": "05:50",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Planta",
+      "Hielo",
+      "Lucha",
+      "Tierra",
+      "Acero"
+    ],
+    "prev_evolution": [{
+      "num": "111",
+      "name": "Rhyhorn"
+    }]
+  }, {
+    "id": 113,
+    "num": "113",
+    "name": "#113 Chansey",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_113_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_113_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.09 m",
+    "weight": "34.6 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.013,
+    "avg_spawns": 1.3,
+    "spawn_time": "04:46",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ]
+  }, {
+    "id": 114,
+    "num": "114",
+    "name": "#114 Tangela",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_114_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_114_00_shiny.png",
+    "type": [
+      "Planta"
+    ],
+    "height": "0.99 m",
+    "weight": "35.0 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.228,
+    "avg_spawns": 22.8,
+    "spawn_time": "23:13",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho"
+    ]
+  }, {
+    "id": 115,
+    "num": "115",
+    "name": "#115 Kangaskhan",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_115_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_115_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "2.21 m",
+    "weight": "80.0 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.0086,
+    "avg_spawns": 0.86,
+    "spawn_time": "02:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ]
+  }, {
+    "id": 116,
+    "num": "116",
+    "name": "#116 Horsea",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_116_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_116_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.41 m",
+    "weight": "8.0 kg",
+    "candy": "Horsea Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 1.13,
+    "avg_spawns": 113,
+    "spawn_time": "02:53",
+    "multipliers": [2.23],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "117",
+      "name": "Seadra"
+    }]
+  }, {
+    "id": 117,
+    "num": "117",
+    "name": "#117 Seadra",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_117_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_117_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "1.19 m",
+    "weight": "25.0 kg",
+    "candy": "Horsea Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "03:18",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "prev_evolution": [{
+      "num": "116",
+      "name": "Horsea"
+    }]
+  }, {
+    "id": 118,
+    "num": "118",
+    "name": "#118 Goldeen",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_118_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_118_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_118_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_118_01_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.61 m",
+    "weight": "15.0 kg",
+    "candy": "Goldeen Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.18,
+    "avg_spawns": 218,
+    "spawn_time": "03:14",
+    "multipliers": [
+      2.15,
+      2.2
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "119",
+      "name": "Seaking"
+    }]
+  }, {
+    "id": 119,
+    "num": "119",
+    "name": "#119 Seaking",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_119_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_119_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_119_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_119_01_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "1.30 m",
+    "weight": "39.0 kg",
+    "candy": "Goldeen Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.08,
+    "avg_spawns": 8,
+    "spawn_time": "05:21",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "prev_evolution": [{
+      "num": "118",
+      "name": "Goldeen"
+    }]
+  }, {
+    "id": 120,
+    "num": "120",
+    "name": "#120 Staryu",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_120_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_120_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.79 m",
+    "weight": "34.5 kg",
+    "candy": "Staryu Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 1.95,
+    "avg_spawns": 195,
+    "spawn_time": "22:59",
+    "multipliers": [
+      2.38,
+      2.41
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "121",
+      "name": "Starmie"
+    }]
+  }, {
+    "id": 121,
+    "num": "121",
+    "name": "#121 Starmie",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_121_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_121_00_shiny.png",
+    "type": [
+      "Agua",
+      "Psíquico"
+    ],
+    "height": "1.09 m",
+    "weight": "80.0 kg",
+    "candy": "Staryu Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "06:57",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "prev_evolution": [{
+      "num": "120",
+      "name": "Staryu"
+    }]
+  }, {
+    "id": 122,
+    "num": "122",
+    "name": "#122 Mr. Mime",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_122_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_122_00_shiny.png",
+    "type": [
+      "Psíquico"
+    ],
+    "height": "1.30 m",
+    "weight": "54.5 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.0031,
+    "avg_spawns": 0.31,
+    "spawn_time": "01:51",
+    "multipliers": null,
+    "weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ]
+  }, {
+    "id": 123,
+    "num": "123",
+    "name": "#123 Scyther",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_123_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_123_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_123_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_123_01_shiny.png",
+    "type": [
+      "Bicho",
+      "Volador"
+    ],
+    "height": "1.50 m",
+    "weight": "56.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.14,
+    "avg_spawns": 14,
+    "spawn_time": "05:43",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Eléctrico",
+      "Hielo",
+      "Volador",
+      "Roca"
+    ]
+  }, {
+    "id": 124,
+    "num": "124",
+    "name": "#124 Jynx",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_124_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_124_00_shiny.png",
+    "type": [
+      "Hielo",
+      "Psíquico"
+    ],
+    "height": "1.40 m",
+    "weight": "40.6 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.35,
+    "avg_spawns": 35,
+    "spawn_time": "05:41",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Bicho",
+      "Roca",
+      "Fantasma",
+      "Siniestro",
+      "Acero"
+    ]
+  }, {
+    "id": 125,
+    "num": "125",
+    "name": "#125 Electabuzz",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_125_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_125_00_shiny.png",
+    "type": [
+      "Eléctrico"
+    ],
+    "height": "1.09 m",
+    "weight": "30.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.074,
+    "avg_spawns": 7.4,
+    "spawn_time": "04:28",
+    "multipliers": null,
+    "weaknesses": [
+      "Tierra"
+    ]
+  }, {
+    "id": 126,
+    "num": "126",
+    "name": "#126 Magmar",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_126_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_126_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "1.30 m",
+    "weight": "44.5 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.10,
+    "avg_spawns": 10,
+    "spawn_time": "20:36",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ]
+  }, {
+    "id": 127,
+    "num": "127",
+    "name": "#127 Pinsir",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_127_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_127_00_shiny.png",
+    "type": [
+      "Bicho"
+    ],
+    "height": "1.50 m",
+    "weight": "55.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.99,
+    "avg_spawns": 99,
+    "spawn_time": "03:25",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Volador",
+      "Roca"
+    ]
+  }, {
+    "id": 128,
+    "num": "128",
+    "name": "#128 Tauros",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_128_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_128_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.40 m",
+    "weight": "88.4 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.12,
+    "avg_spawns": 12,
+    "spawn_time": "00:37",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ]
+  }, {
+    "id": 129,
+    "num": "129",
+    "name": "#129 Magikarp",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_129_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_129_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_129_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_129_01_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.89 m",
+    "weight": "10.0 kg",
+    "candy": "Magikarp Candy",
+    "candy_count": 400,
+    "egg": "2 km",
+    "spawn_chance": 4.78,
+    "avg_spawns": 478,
+    "spawn_time": "14:26",
+    "multipliers": [
+      10.1,
+      11.8
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "next_evolution": [{
+      "num": "130",
+      "name": "Gyarados"
+    }]
+  }, {
+    "id": 130,
+    "num": "130",
+    "name": "#130 Gyarados",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_130_00.png",
+    "female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_130_01.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_130_00_shiny.png",
+    "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_130_01_shiny.png",
+    "type": [
+      "Agua",
+      "Volador"
+    ],
+    "height": "6.50 m",
+    "weight": "235.0 kg",
+    "candy": "Magikarp Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0032,
+    "avg_spawns": 0.32,
+    "spawn_time": "02:15",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "129",
+      "name": "Magikarp"
+    }]
+  }, {
+    "id": 131,
+    "num": "131",
+    "name": "#131 Lapras",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_131_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_131_00_shiny.png",
+    "type": [
+      "Agua",
+      "Hielo"
+    ],
+    "height": "2.49 m",
+    "weight": "220.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.006,
+    "avg_spawns": 0.6,
+    "spawn_time": "08:59",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Lucha",
+      "Roca"
+    ]
+  }, {
+    "id": 132,
+    "num": "132",
+    "name": "#132 Ditto",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_132_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_132_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.30 m",
+    "weight": "4.0 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ]
+  }, {
+    "id": 133,
+    "num": "133",
+    "name": "#133 Eevee",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_133_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_133_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.30 m",
+    "weight": "6.5 kg",
+    "candy": "Eevee Candy",
+    "candy_count": 25,
+    "egg": "10 km",
+    "spawn_chance": 2.75,
+    "avg_spawns": 275,
+    "spawn_time": "05:32",
+    "multipliers": [
+      2.02,
+      2.64
+    ],
+    "weaknesses": [
+      "Lucha"
+    ],
+    "next_evolution": [{
+      "num": "134",
+      "name": "Vaporeon"
+    }, {
+      "num": "135",
+      "name": "Jolteon"
+    }, {
+      "num": "136",
+      "name": "Flareon"
+    }]
+  }, {
+    "id": 134,
+    "num": "134",
+    "name": "#134 Vaporeon",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_134_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_134_00_shiny.png",
+    "type": [
+      "Agua"
+    ],
+    "height": "0.99 m",
+    "weight": "29.0 kg",
+    "candy": "Eevee Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.014,
+    "avg_spawns": 1.4,
+    "spawn_time": "10:54",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+  }, {
+    "id": 135,
+    "num": "135",
+    "name": "#135 Jolteon",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_135_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_135_00_shiny.png",
+    "type": [
+      "Eléctrico"
+    ],
+    "height": "0.79 m",
+    "weight": "24.5 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "02:30",
+    "multipliers": null,
+    "weaknesses": [
+      "Tierra"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+  }, {
+    "id": 136,
+    "num": "136",
+    "name": "#136 Flareon",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_136_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_136_00_shiny.png",
+    "type": [
+      "Fuego"
+    ],
+    "height": "0.89 m",
+    "weight": "25.0 kg",
+    "candy": "Eevee Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.017,
+    "avg_spawns": 1.7,
+    "spawn_time": "07:02",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Tierra",
+      "Roca"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+  }, {
+    "id": 137,
+    "num": "137",
+    "name": "#137 Porygon",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_137_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_137_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.79 m",
+    "weight": "36.5 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "02:49",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ]
+  }, {
+    "id": 138,
+    "num": "138",
+    "name": "#138 Omanyte",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_138_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_138_00_shiny.png",
+    "type": [
+      "Roca",
+      "Agua"
+    ],
+    "height": "0.41 m",
+    "weight": "7.5 kg",
+    "candy": "Omanyte Candy",
+    "candy_count": 50,
+    "egg": "10 km",
+    "spawn_chance": 0.14,
+    "avg_spawns": 14,
+    "spawn_time": "10:23",
+    "multipliers": [2.12],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Lucha",
+      "Tierra"
+    ],
+    "next_evolution": [{
+      "num": "139",
+      "name": "Omastar"
+    }]
+  }, {
+    "id": 139,
+    "num": "139",
+    "name": "#139 Omastar",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_139_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_139_00_shiny.png",
+    "type": [
+      "Roca",
+      "Agua"
+    ],
+    "height": "0.99 m",
+    "weight": "35.0 kg",
+    "candy": "None",
+    "egg": "Omanyte Candy",
+    "spawn_chance": 0.0061,
+    "avg_spawns": 0.61,
+    "spawn_time": "05:04",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Lucha",
+      "Tierra"
+    ],
+    "prev_evolution": [{
+      "num": "138",
+      "name": "Omanyte"
+    }]
+  }, {
+    "id": 140,
+    "num": "140",
+    "name": "#140 Kabuto",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_140_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_140_00_shiny.png",
+    "type": [
+      "Roca",
+      "Agua"
+    ],
+    "height": "0.51 m",
+    "weight": "11.5 kg",
+    "candy": "Kabuto Candy",
+    "candy_count": 50,
+    "egg": "10 km",
+    "spawn_chance": 0.10,
+    "avg_spawns": 10,
+    "spawn_time": "00:05",
+    "multipliers": [
+      1.97,
+      2.37
+    ],
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Lucha",
+      "Tierra"
+    ],
+    "next_evolution": [{
+      "num": "141",
+      "name": "Kabutops"
+    }]
+  }, {
+    "id": 141,
+    "num": "141",
+    "name": "#141 Kabutops",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_141_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_141_00_shiny.png",
+    "type": [
+      "Roca",
+      "Agua"
+    ],
+    "height": "1.30 m",
+    "weight": "40.5 kg",
+    "candy": "Kabuto Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0032,
+    "avg_spawns": 0.32,
+    "spawn_time": "23:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Eléctrico",
+      "Planta",
+      "Lucha",
+      "Tierra"
+    ],
+    "prev_evolution": [{
+      "num": "140",
+      "name": "Kabuto"
+    }]
+  }, {
+    "id": 142,
+    "num": "142",
+    "name": "#142 Aerodactyl",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_142_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_142_00_shiny.png",
+    "type": [
+      "Roca",
+      "Volador"
+    ],
+    "height": "1.80 m",
+    "weight": "59.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.018,
+    "avg_spawns": 1.8,
+    "spawn_time": "23:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Eléctrico",
+      "Hielo",
+      "Roca",
+      "Acero"
+    ]
+  }, {
+    "id": 143,
+    "num": "143",
+    "name": "#143 Snorlax",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_143_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_143_00_shiny.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "2.11 m",
+    "weight": "460.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.016,
+    "avg_spawns": 1.6,
+    "spawn_time": "23:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Lucha"
+    ]
+  }, {
+    "id": 144,
+    "num": "144",
+    "name": "#144 Articuno",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_144_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_144_00_shiny.png",
+    "type": [
+      "Hielo",
+      "Volador"
+    ],
+    "height": "1.70 m",
+    "weight": "55.4 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Fuego",
+      "Eléctrico",
+      "Roca",
+      "Acero"
+    ]
+  }, {
+    "id": 145,
+    "num": "145",
+    "name": "#145 Zapdos",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_145_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_145_00_shiny.png",
+    "type": [
+      "Eléctrico",
+      "Volador"
+    ],
+    "height": "1.60 m",
+    "weight": "52.6 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Hielo",
+      "Roca"
+    ]
+  }, {
+    "id": 146,
+    "num": "146",
+    "name": "#146 Moltres",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_146_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_146_00_shiny.png",
+    "type": [
+      "Fuego",
+      "Volador"
+    ],
+    "height": "2.01 m",
+    "weight": "60.0 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Agua",
+      "Eléctrico",
+      "Roca"
+    ]
+  }, {
+    "id": 147,
+    "num": "147",
+    "name": "#147 Dratini",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_147_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_147_00_shiny.png",
+    "type": [
+      "Dragon"
+    ],
+    "height": "1.80 m",
+    "weight": "3.3 kg",
+    "candy": "Dratini Candy",
+    "candy_count": 25,
+    "egg": "10 km",
+    "spawn_chance": 0.30,
+    "avg_spawns": 30,
+    "spawn_time": "06:41",
+    "multipliers": [
+      1.83,
+      1.84
+    ],
+    "weaknesses": [
+      "Hielo",
+      "Dragon",
+      "Hada"
+    ],
+    "next_evolution": [{
+      "num": "148",
+      "name": "Dragonair"
+    }, {
+      "num": "149",
+      "name": "Dragonite"
+    }]
+  }, {
+    "id": 148,
+    "num": "148",
+    "name": "#148 Dragonair",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_148_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_148_00_shiny.png",
+    "type": [
+      "Dragon"
+    ],
+    "height": "3.99 m",
+    "weight": "16.5 kg",
+    "candy": "Dratini Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.02,
+    "avg_spawns": 2,
+    "spawn_time": "11:57",
+    "multipliers": [2.05],
+    "weaknesses": [
+      "Hielo",
+      "Dragon",
+      "Hada"
+    ],
+    "prev_evolution": [{
+      "num": "147",
+      "name": "Dratini"
+    }],
+    "next_evolution": [{
+      "num": "149",
+      "name": "Dragonite"
+    }]
+  }, {
+    "id": 149,
+    "num": "149",
+    "name": "#149 Dragonite",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_149_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_149_00_shiny.png",
+    "type": [
+      "Dragon",
+      "Volador"
+    ],
+    "height": "2.21 m",
+    "weight": "210.0 kg",
+    "candy": "Dratini Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0011,
+    "avg_spawns": 0.11,
+    "spawn_time": "23:38",
+    "multipliers": null,
+    "weaknesses": [
+      "Hielo",
+      "Roca",
+      "Dragon",
+      "Hada"
+    ],
+    "prev_evolution": [{
+      "num": "147",
+      "name": "Dratini"
+    }, {
+      "num": "148",
+      "name": "Dragonair"
+    }]
+  }, {
+    "id": 150,
+    "num": "150",
+    "name": "#150 Mewtwo",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_150_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_150_00_shiny.png",
+    "type": [
+      "Psíquico"
+    ],
+    "height": "2.01 m",
+    "weight": "122.0 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ]
+  }, {
+    "id": 151,
+    "num": "151",
+    "name": "#151 Mew",
+    "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_151_00.png",
+    "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_151_00_shiny.png",
+    "type": [
+      "Psíquico"
+    ],
+    "height": "0.41 m",
+    "weight": "4.0 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ]
+  }]
+}
